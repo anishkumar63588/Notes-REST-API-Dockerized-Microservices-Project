@@ -58,4 +58,3 @@ This project shows how to:
 
    ```bash
    git clone https://github.com/anishkumar63588/Notes-REST-API-Dockerized-Microservices-Project.git
-   cd notes-rest-api
